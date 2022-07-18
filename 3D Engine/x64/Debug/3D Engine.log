@@ -1,0 +1,12 @@
+﻿  3D Engine.cpp
+C:\Users\fired\Desktop\Coding\C++\3D Engine\3D Engine\olcConsoleGameEngine.h(759,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fired\Desktop\Coding\C++\3D Engine\3D Engine\olcConsoleGameEngine.h(1099,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\fired\Desktop\Coding\C++\3D Engine\3D Engine\olcConsoleGameEngine.h(1196,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+C:\Users\fired\Desktop\Coding\C++\3D Engine\3D Engine\3D Engine.cpp(56,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\fired\Desktop\Coding\C++\3D Engine\3D Engine\3D Engine.cpp(129,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\fired\Desktop\Coding\C++\3D Engine\3D Engine\3D Engine.cpp(129,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\fired\Desktop\Coding\C++\3D Engine\3D Engine\3D Engine.cpp(128,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\fired\Desktop\Coding\C++\3D Engine\3D Engine\3D Engine.cpp(128,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\fired\Desktop\Coding\C++\3D Engine\3D Engine\3D Engine.cpp(127,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\fired\Desktop\Coding\C++\3D Engine\3D Engine\3D Engine.cpp(127,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  3D Engine.vcxproj -> C:\Users\fired\Desktop\Coding\C++\3D Engine\x64\Debug\3D Engine.exe
