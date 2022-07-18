@@ -1,2 +1,2 @@
 # 3D-Engine
-I followed a tutorial for this after learning linear algebra.
+Not much of an engine, just a cube rotating around the origin. 
